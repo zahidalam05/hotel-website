@@ -143,7 +143,7 @@ body
 {  
     
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 10%;
     width: 50%;
     font-size: 2rem;  
@@ -398,6 +398,7 @@ select {
 
 
 footer {
+    margin: top 20px; 
     background-color: #333;
     color: white;
     text-align: center;
